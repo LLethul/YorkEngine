@@ -1,0 +1,5 @@
+build/
+shaders/out/
+.cache/
+.vscode/
+lib/

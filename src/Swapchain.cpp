@@ -127,6 +127,7 @@ VkResult Swapchain::submitCommandBuffers(
   auto result = vkQueuePresentKHR(device.presentQueue(), &presentInfo);
 
   currentFrame = (currentFrame + 1) % MAX_FRAMES_IN_FLIGHT;
+  
 
   return result;
 }

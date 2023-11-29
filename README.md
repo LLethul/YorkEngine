@@ -1,5 +1,6 @@
 # York Engine
-<img src="YorkEngine.webp"> York engine is a modern Vulkan game engine with embedded lua
+<img src="YorkEngine.webp">
+York engine is a modern Vulkan game engine with embedded lua
 
 ## Features:
 - [ ] 3d rendering
